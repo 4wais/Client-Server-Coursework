@@ -9,35 +9,35 @@ This project is a RESTful Smart Campus API developed using JAX-RS (Jersey) and M
 
 The university requires a scalable backend service for managing campus infrastructure such as:
 
-temperature sensors
-CO2 monitors
-occupancy trackers
-smart lighting systems
+-temperature sensors
+-CO2 monitors
+-occupancy trackers
+-smart lighting systems
 
 The API provides:
 
-Room creation and deletion
-Sensor registration linked to rooms
-Sensor filtering using query parameters
-Historical sensor reading management
-Sub-resource nesting for readings
-Custom exception handling using Exception Mappers
-Request and response logging using JAX-RS filters
+-Room creation and deletion
+-Sensor registration linked to rooms
+-Sensor filtering using query parameters
+-Historical sensor reading management
+-Sub-resource nesting for readings
+-Custom exception handling using Exception Mappers
+-Request and response logging using JAX-RS filters
 
 The API follows RESTful best practices by using:
 
-resource-based URLs
-proper HTTP methods (GET, POST, DELETE)
-appropriate HTTP status codes
-JSON request and response bodies
-nested sub-resources
-centralised exception handling
+-resource-based URLs
+-proper HTTP methods (GET, POST, DELETE)
+-appropriate HTTP status codes
+-JSON request and response bodies
+-nested sub-resources
+-centralised exception handling
 
 The project uses only:
 
-JAX-RS
-HashMap
-ArrayList
+-JAX-RS
+-HashMap
+-ArrayList
 
 How to Build and Run
 1. Clone Repository - Use git clone https://github.com/4wais/Client-Server-Coursework/
