@@ -1,4 +1,8 @@
 # Client-Server-Coursework
+Module: 5COSC022W – Client-Server Architectures  
+Coursework Title:Smart Campus Sensor & Room Management API  
+Student: Awais Ishaq
+Student ID: W2116768
 API Overview
 
 This project is a RESTful Smart Campus API developed using JAX-RS (Jersey) and Maven for managing Rooms, Sensors, and Sensor Readings within a university campus.
